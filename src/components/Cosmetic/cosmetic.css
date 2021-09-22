@@ -1,0 +1,24 @@
+.cosmetic-design{
+    margin: 10px;
+    padding: 3px;
+    border: 3px solid lightsalmon;
+    border-radius: 5px;
+}
+.cosmetic-design h1{
+    color: rgb(207, 80, 30);
+}
+.cosmetic-design p{
+    color: maroon;
+}
+.cosmetic-design h2{
+    color: rgb(201, 13, 13);
+}
+
+.cosmetic-design button{
+    color: mediumvioletred;
+    background-color: navajowhite;
+    margin: 5px;
+    padding: 3px;
+    border: 2px solid rgb(201, 13, 13);
+
+}
